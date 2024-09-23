@@ -25,7 +25,6 @@ Step by step to run this app in your local
     ```
         npm/yarn start
     ```
-Open on web: http://localhost:3000
 
 3. Build:
 
